@@ -1,0 +1,186 @@
+{
+  "schema_version": "3.0.0",
+  "release_status": "pilot",
+  "format": "15 sequential questions from first contact to handoff",
+  "actual": {
+    "scenarios": 15,
+    "questions": 175
+  },
+  "scenarios": [
+    {
+      "id": "scenario-001",
+      "title": "Фотографии для блога Марины",
+      "service_category": "Нейрофотосессии и работа с изображениями",
+      "difficulty": "beginner",
+      "intro": "Марина хочет фотографии для своего блога. Вы создаёте изображения с помощью нейросети по её фото. Начните с первого сообщения и проведите заказ до сдачи.",
+      "editorial_status": "revised_plausible_distractors_pending_review",
+      "question_count": 15,
+      "path": "data/scenarios/scenario-001.json",
+      "sha256": "baa21cda29131664fc3d5e66e5cc11f70520c1818f38e5a576cb74e2b3e1647c"
+    },
+    {
+      "id": "scenario-002",
+      "title": "Карточка термокружки для Дениса",
+      "service_category": "Инфографика WB/Ozon",
+      "difficulty": "beginner",
+      "intro": "Денис начинает продавать термокружки. Ему нужны картинки с фотографиями и преимуществами товара для карточки на Ozon. Вы отвечаете за оформление, а не за продажи.",
+      "editorial_status": "revised_plausible_distractors_pending_review",
+      "question_count": 15,
+      "path": "data/scenarios/scenario-002.json",
+      "sha256": "d6e1e5470593284fd91245655ca116a3da2d549bc99795b74079291fd03770ed"
+    },
+    {
+      "id": "scenario-003",
+      "title": "Ролик для открытия пекарни",
+      "service_category": "AI-видео",
+      "difficulty": "beginner",
+      "intro": "Алина открывает небольшую пекарню и хочет короткое видео для соцсетей. Вы помогаете сделать ролик из её съёмки с несколькими эффектами нейросети.",
+      "editorial_status": "revised_plausible_distractors_pending_review",
+      "question_count": 15,
+      "path": "data/scenarios/scenario-003.json",
+      "sha256": "3a26bcaabcc115406b842c6701c9673a6ae34bba2e8e2476fe78f95efa8acbb2"
+    },
+    {
+      "id": "scenario-004",
+      "title": "Бот записи для мастерской Олега",
+      "service_category": "Чат-боты/автоматизация",
+      "difficulty": "beginner",
+      "intro": "Олег ремонтирует велосипеды и хочет принимать заявки через Telegram. Бот — помощник, который задаёт вопросы и передаёт ответы мастеру. Для этой истории не нужно уметь программировать.",
+      "editorial_status": "revised_plausible_distractors_pending_review",
+      "question_count": 15,
+      "path": "data/scenarios/scenario-004.json",
+      "sha256": "3cba3bc0d32f704a681432ac0f35ea07396c6be23aa13dd989cb420babe63f25"
+    },
+    {
+      "id": "scenario-005",
+      "title": "Таблица доходов для Светланы",
+      "service_category": "Таблицы/аналитика",
+      "difficulty": "beginner",
+      "intro": "Светлана продаёт товары на маркетплейсе. Она хочет видеть, сколько денег остаётся после расходов. Вы делаете понятную таблицу: продажи минус расходы. Знать формулы Excel для ответов не нужно.",
+      "editorial_status": "revised_plausible_distractors_pending_review",
+      "question_count": 15,
+      "path": "data/scenarios/scenario-005.json",
+      "sha256": "31be6f556a44e205640d814f1f8b198c53d935ccf5a0ddad6ae79305a197b536"
+    },
+    {
+      "id": "scenario-006",
+      "title": "Приглашение на день рождения",
+      "service_category": "Дизайн приглашений",
+      "difficulty": "beginner",
+      "intro": "Лена хочет отправить друзьям красивое приглашение на день рождения. Вы помогаете выбрать оформление и готовите одну электронную открытку.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-006.json",
+      "sha256": "95bccd19a9537aa14be2e69992349eae244991008564666cf860aa492e49928c"
+    },
+    {
+      "id": "scenario-007",
+      "title": "Три поста для цветочного магазина",
+      "service_category": "Тексты для соцсетей",
+      "difficulty": "beginner",
+      "intro": "Ирина ведёт страницу небольшого цветочного магазина. Ей нужны три коротких поста о букетах и доставке. Вы уточняете сведения и готовите тексты.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-007.json",
+      "sha256": "33ffb35b97c4fb7c867fa558d0a426f057f24c87161de5d4ac8fc9f67393fab2"
+    },
+    {
+      "id": "scenario-008",
+      "title": "Прайс-лист для мастера маникюра",
+      "service_category": "Дизайн прайс-листа",
+      "difficulty": "beginner",
+      "intro": "Оля хочет одну аккуратную картинку с услугами и ценами для своей страницы. Нужно собрать сведения, оформить их и передать готовый прайс.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-008.json",
+      "sha256": "fc9bed8059bdfa242e5b7a0f944c6db259f98ab96c978b677ff88097c63c010f"
+    },
+    {
+      "id": "scenario-009",
+      "title": "Субтитры для короткого видео",
+      "service_category": "Монтаж видео",
+      "difficulty": "beginner",
+      "intro": "Роман снял минутное видео с советом и хочет добавить текст внизу экрана. Нужно уточнить формат, согласовать субтитры и передать ролик.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-009.json",
+      "sha256": "05061b1e758f231897426c9bcaceee83e6a4053bed3cd2ce7397649decd974ad"
+    },
+    {
+      "id": "scenario-010",
+      "title": "Таблица семейных расходов",
+      "service_category": "Таблицы для повседневных задач",
+      "difficulty": "beginner",
+      "intro": "Наташа хочет записывать домашние траты и видеть итог месяца. Вы делаете небольшую таблицу без сложной аналитики и объясняете, как её заполнять.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-010.json",
+      "sha256": "373595b424069e30b0ce5f473d24f4cbff1b469f5319e9b77adae12872d16d91"
+    },
+    {
+      "id": "scenario-011",
+      "title": "Объявление о занятиях английским",
+      "service_category": "Тексты объявлений",
+      "difficulty": "beginner",
+      "intro": "Даша преподаёт английский и хочет короткое объявление для районного чата. Вы помогаете понятно описать занятия и способ записи.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-011.json",
+      "sha256": "712064b8746a87f6e9ee22c60b9497d49a03e0d1431b8b3016efd07cde93d4d4"
+    },
+    {
+      "id": "scenario-012",
+      "title": "Семь слайдов для выступления",
+      "service_category": "Презентации",
+      "difficulty": "beginner",
+      "intro": "Артём готовит короткое выступление о своём проекте. У него есть текст и цифры, а вам нужно оформить семь понятных слайдов.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-012.json",
+      "sha256": "2c1f178780e4ed5184294a93df6629d03e05794a9fa3a08dbee801d1adbfcc1f"
+    },
+    {
+      "id": "scenario-013",
+      "title": "Фото для объявления о велосипеде",
+      "service_category": "Обработка фотографий",
+      "difficulty": "beginner",
+      "intro": "Илья продаёт свой велосипед и хочет сделать снимки светлее и аккуратнее. Вы обрабатываете пять фотографий, сохраняя реальный вид вещи.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-013.json",
+      "sha256": "c090e050f1f0edbcb2d31aee937886a823218ae2e534ec281efb258325e1158f"
+    },
+    {
+      "id": "scenario-014",
+      "title": "Афиша небольшого мастер-класса",
+      "service_category": "Дизайн афиш",
+      "difficulty": "beginner",
+      "intro": "Соня проводит мастер-класс по керамике. Ей нужна одна электронная афиша с датой, местом и способом записи.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-014.json",
+      "sha256": "716a1c4227422cc0905cfe19d6b580bb97264098d0070a54109ffbf04351fceb"
+    },
+    {
+      "id": "scenario-015",
+      "title": "Меню ответов для домашней кондитерской",
+      "service_category": "Простая автоматизация",
+      "difficulty": "beginner",
+      "intro": "Вера печёт торты на заказ. Она хочет простое меню в Telegram: цены, сроки и связь с ней. Бот не принимает оплату и не подтверждает заказ сам.",
+      "editorial_status": "authored_pending_user_review",
+      "practice_type": "simple",
+      "question_count": 10,
+      "path": "data/scenarios/scenario-015.json",
+      "sha256": "3d5b5ccd7e930fde4914a6643460329ee32ed05e235e93d34b9e3524bcf0a02f"
+    }
+  ]
+}
