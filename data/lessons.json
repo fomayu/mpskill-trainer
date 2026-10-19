@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "status": "unmapped",
+  "lessons": [
+    {
+      "tag": "communication",
+      "title": "Переписка и согласование",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "expectations",
+      "title": "Ожидания и доверие",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "brief",
+      "title": "Сбор ТЗ",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "price",
+      "title": "Стоимость",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "deadline",
+      "title": "Сроки",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "security",
+      "title": "Безопасность и оплата",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "sources",
+      "title": "Качество исходников",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "negative",
+      "title": "Работа с недовольством",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "scope",
+      "title": "Дополнительная работа",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "revisions",
+      "title": "Правки и ошибки исполнителя",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "acceptance",
+      "title": "Сдача и приёмка",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "rights",
+      "title": "Права на материалы",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "privacy",
+      "title": "Персональные данные и согласие",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "files",
+      "title": "Исходники и форматы передачи",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "accuracy",
+      "title": "Достоверность утверждений",
+      "getcourse_lesson_id": null,
+      "url": null
+    },
+    {
+      "tag": "handoff",
+      "title": "Условия использования результата",
+      "getcourse_lesson_id": null,
+      "url": null
+    }
+  ]
+}
